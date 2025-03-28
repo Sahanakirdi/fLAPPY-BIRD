@@ -1,2 +1,2 @@
-# fLAPPY-BIRD
+# FLAPPY-BIRD
 Flappy Bird
